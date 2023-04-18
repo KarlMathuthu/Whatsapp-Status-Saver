@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">IMAGES</string>
+    <string name="video">VIDEOS</string>
+    <string name="save">SAVED FILES</string>
+    <string name="no_files_found">No Files Found</string>
+    <string name="cant_find_whatsapp_dir">Cannot Find Whatsapp directory</string>
+    <string name="allow_permission">allow permission</string>
+    <string name="please_allow_permission">Please allow permission</string>
+    <string name="exit">Exit</string>
+    <string name="allow">allow</string>
+    <string name="help">Help</string>
+</resources>
