@@ -3,8 +3,10 @@ Whatsapp Status Saver that will help you save your whatsapp statuses with a sing
 
 ## Screenshots
 
-<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="400"/>
-
+<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="500"/>
+<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="500"/>
+<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="500"/>
+<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="500"/>
 ## Developer
 
 Made with ❤ by Karl Mathuthu
