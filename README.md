@@ -3,7 +3,7 @@ Whatsapp Status Saver that will help you save your whatsapp statuses with a sing
 
 ## Screenshots
 
-<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="100px"/>
+<img src="https://github.com/KarlMathuthu/Whatsapp-Status-Saver/blob/master/pic1.png" height="100"/>
 
 ## Developer
 
